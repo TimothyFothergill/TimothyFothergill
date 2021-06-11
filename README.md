@@ -1,4 +1,4 @@
-### Hi there 👋
+### Tim Fothergill - Software Development Apprentice, DevOps Engineer and hobbyist game development
 
 <!--
 **TimothyFothergill/TimothyFothergill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 In my spare time, I'm currently working on a 2d Platformer
+- 🌱 I’m currently learning 
