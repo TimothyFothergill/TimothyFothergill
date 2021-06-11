@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 In my spare time, I'm currently working on a 2d Platformer
-- 🌱 I’m currently learning 
+- 🌱 In my day job, I’m currently learning Scala and the Play Framework
