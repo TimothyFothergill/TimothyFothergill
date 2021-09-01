@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 In my spare time, I'm currently working on a personal website - I've been using Emmet to help build the HTML structure quickly.
-- 🌱 I’m currently learning more about Scala.
+- 🔭 In my spare time, I'm currently working on a prototype for an RPG.
+- 🌱 I’m currently learning more about Scala in the daytime, Unity3D in the evenings.
 - ⚡ Fun fact: I used to run a social group in the UK. We met and played board games.
