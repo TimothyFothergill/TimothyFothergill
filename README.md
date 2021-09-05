@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 In my spare time, I'm currently working on a prototype for an RPG.
+- 🔭 In my spare time, I'm currently working on a prototype for an RPG. Next system to make: Crafting.
 - 🌱 I’m currently learning more about Scala in the daytime, Unity3D in the evenings.
-- ⚡ Fun fact: I used to run a social group in the UK. We met and played board games.
+- ⚡ Fun fact: I used to run a social group in the UK. We met and played board games. It was a good time!
