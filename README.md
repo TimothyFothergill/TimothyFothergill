@@ -1,4 +1,4 @@
-### Tim Fothergill - Software Development Apprentice, DevOps Engineer and hobbyist game development
+### Tim Fothergill - Software Development Apprentice, DevOps Engineer and hobbyist game developer
 
 <!--
 **TimothyFothergill/TimothyFothergill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 In my spare time, I'm currently working on a prototype for an RPG. Next system to make: Improved Combat System.
+- 🔭 I'm also working on a personal website in Scala
 - 🌱 I’m currently learning more about Scala in the daytime, Unity3D in the evenings.
 - ⚡ Fun fact: I used to run a social group in the UK. We met and played board games. It was a good time!
