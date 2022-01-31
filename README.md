@@ -1,4 +1,4 @@
-### Tim Fothergill - Software Development Apprentice, DevOps Engineer and hobbyist game developer
+### Tim Fothergill - Infrastructure engineer and hobbyist game developer
 
 <!--
 **TimothyFothergill/TimothyFothergill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
