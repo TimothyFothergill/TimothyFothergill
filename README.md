@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 In my spare time, I'm currently working on a prototype for an RPG. Next system to make: Improved Combat System.
+- 🔭 In my spare time, I'm currently working on NetBitPets, a web-based game served with microservices.
 - 🔭 I'm also working on a personal website in Scala
-- 🌱 I’m currently learning more about Scala in the daytime, Unity3D in the evenings.
+- 🌱 I’m currently learning about frontend design
 - ⚡ Fun fact: I used to run a social group in the UK. We met and played board games. It was a good time!
