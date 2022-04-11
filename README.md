@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 In my spare time, I'm currently working on NetBitPets, a web-based game served with microservices.
-- 🔭 I'm also working on a personal website in Scala
-- 🌱 I’m currently learning about frontend design
+- 🔭 In my spare time, I'm currently working on improvements to Matchagana, a web-based aid for learning Japanese Hiragana.
+- 🔭 I'm also working on improvements to a personal website in Scala
+- 🌱 I’m currently learning more about Terraform and AWS
 - ⚡ Fun fact: I used to run a social group in the UK. We met and played board games. It was a good time!
