@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently working on improvements to Matchagana, a web-based aid for learning Japanese Hiragana.
-- 🔭 I'm also working on improvements to a personal website in Scala
-- 🔭 Finally, I'm also creating a 3D RPG prototype in Unity
-- 🌱 I’m currently learning more about Terraform and AWS
+- 🔭 I'm currently working on creating a 3D RPG prototype in Unity. You can see it here: https://play.unity.com/mg/other/3d-rpg-prototype
+- 🔭 I'm often working on improvements to my personal website in Scala
+- 🔭 Finally, I'm also working on improvements to Matchagana, a web-based aid for learning Japanese Hiragana. https://www.matchagana.com/
+- 🌱 I’m currently working towards an AWS architect certificate
 - ⚡ Fun fact: I used to run a social group in the UK. We met and played board games. It was a good time!
+- 📫 How to reach me: https://www.timlah.com/contact
