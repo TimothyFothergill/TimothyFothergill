@@ -23,5 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I used to run a social group in the UK. We met and played board games. It was a good time!
 - 📫 How to reach me: https://www.timlah.com/contact
 
-[![Timlah's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimothyFothergill&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Timlah's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimothyFothergill&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Timlah's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimothyFothergill&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
