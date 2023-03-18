@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.timlah.com/contact
 
 [![Timlah's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimothyFothergill&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TimothyFothergill)](https://github.com/ryo-ma/github-profile-trophy)
