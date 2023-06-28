@@ -2,6 +2,10 @@
 :toc:
 :toc-title: My Cool TOC
 
+== Why does this exist?
+I was playing with asciidocs. Fun!
+https://docs.asciidoctor.org/asciidoc/latest/
+
 == Stuff about me
 - ⚡ Fun fact: People *have* called me 'Timlah' online and in the real world for a long time now.
 - 🔭 I'm currently working on creating a 3D RPG in Unity called Skell's Quest. You can see it https://play.unity.com/mg/other/skell-s-quest-v0-0-3-prototype[here]
@@ -13,5 +17,6 @@
 == A picture
 image::https://github-readme-stats.vercel.app/api?username=TimothyFothergill&show_icons=true&theme=dark[Timlah's GitHub stats,800]
 
+:warning-caption: 💡 LIGHTBULB
 WARNING: Wolpertingers are known to nest in server racks.
 Enter at your own risk.
