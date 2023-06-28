@@ -12,3 +12,6 @@
 
 == A picture
 image::https://github-readme-stats.vercel.app/api?username=TimothyFothergill&show_icons=true&theme=dark[Timlah's GitHub stats,800]
+
+WARNING: Wolpertingers are known to nest in server racks.
+Enter at your own risk.
