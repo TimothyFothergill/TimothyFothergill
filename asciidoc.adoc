@@ -1,0 +1,11 @@
+= Tim Fothergill - Infrastructure engineer and hobbyist game developer
+:toc:
+
+- ⚡ Fun fact: People *have* called me 'Timlah' online and in the real world for a long time now.
+- 🔭 I'm currently working on creating a 3D RPG in Unity called Skell's Quest. You can see it https://play.unity.com/mg/other/skell-s-quest-v0-0-3-prototype[here]
+- 🔭 I'm often working on improvements to my personal website in Scala
+- 🌱 I’m currently working towards an AWS architect certificate
+- ⚡ Fun fact: I used to run a social group in the UK. We met and played board games. It was a good time!
+- 📫 How to reach me: https://www.timlah.com/contact
+
+image::https://github-readme-stats.vercel.app/api?username=TimothyFothergill&show_icons=true&theme=dark[Timlah's GitHub stats,800]
