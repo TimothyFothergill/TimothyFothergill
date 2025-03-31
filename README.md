@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: People have called me 'Timlah' online and in the real world for a long time now.
-- 🔭 I'm currently working on creating a 3D RPG in Unity called Skell's Quest. You can see it here: https://play.unity.com/mg/other/skell-s-quest-v0-0-3-prototype
 - 🔭 I'm often working on improvements to my personal website in Scala
+- 🌱 I'm learning more about A11y
+- ⚡ Fun fact: People have called me 'Timlah' online and in the real world for a long time now.
 - ⚡ Fun fact: I used to run a social group in the UK. We met and played board games. It was a good time!
 - 📫 How to reach me: https://www.timlah.com/contact
 
